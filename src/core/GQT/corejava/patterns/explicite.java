@@ -1,4 +1,4 @@
-package typecasting;
+package core.GQT.corejava.patterns;
 
 public class explicite {
 

@@ -1,7 +1,8 @@
 
+		package core.GQT.corejava.patterns;
 import java.util.Scanner;
 
-public class Patternmatxnum9 {
+public class Patternmatrix8 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,7 +11,7 @@ public class Patternmatxnum9 {
          int n=sc.nextInt();
          for(int i=1;i<=n;i++) {
         	 for(int j=1;j<=n;j++)  {
-         System.out.print(i+"");
+         System.out.print("*");
          
 	}
      System.out.println();

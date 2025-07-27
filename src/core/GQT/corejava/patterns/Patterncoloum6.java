@@ -1,7 +1,7 @@
-
+package core.GQT.corejava.patterns;
 import java.util.Scanner;
 
-public class Patternmatrix8 {
+public class Patterncoloum6 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,11 +9,9 @@ public class Patternmatrix8 {
          System.out.println("Enter the count:");
          int n=sc.nextInt();
          for(int i=1;i<=n;i++) {
-        	 for(int j=1;j<=n;j++)  {
-         System.out.print("*");
+         System.out.print("1");
          
 	}
-     System.out.println();
-         }
+
 }
 }

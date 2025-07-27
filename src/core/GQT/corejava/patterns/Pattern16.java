@@ -1,5 +1,7 @@
 
-
+package core.GQT.corejava.patterns;
+		
+	
 import java.util.Scanner;
 
 public class Pattern16 {
@@ -18,6 +20,7 @@ public class Pattern16 {
 	}
     System.out.println();
         }
-}
+
+	}
 
 }

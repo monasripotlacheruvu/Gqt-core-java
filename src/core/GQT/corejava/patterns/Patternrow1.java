@@ -1,7 +1,11 @@
 
+		package core.GQT.corejava.patterns;
+		
+	
 import java.util.Scanner;
 
-public class Patternrow4 {
+public class Patternrow1 {
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -9,9 +13,10 @@ public class Patternrow4 {
          System.out.println("Enter the count:");
          int n=sc.nextInt();
          for(int i=1;i<=n;i++) {
-         System.out.println("1");
+        
+         System.out.println("*");
          
 	}
-
+  
 }
 }
